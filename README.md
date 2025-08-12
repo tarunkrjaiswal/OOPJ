@@ -1,10 +1,18 @@
 # 🖥️ OOPJ Lab Programs
+<p align="left">
+  <a href="https://github.com/tarunkrjaiswal/REPO-NAME/stargazers">
+    <img src="https://img.shields.io/badge/⭐-Star%20this%20repo%20if%20it%20helped-BF91F3?style=for-the-badge&logo=github" alt="Star this repo if it helped you!" />
+  </a>
+</p>
 
 [![Java](https://img.shields.io/badge/Java-Programming-orange)](https://www.oracle.com/java/)
 [![GitHub last commit](https://img.shields.io/github/last-commit/tarunkrjaiswal/OOPJ)](https://github.com/tarunkrjaiswal/OOPJ/commits/main)
 
+
+
 This repository contains Object Oriented Programming with Java lab programs as per the [**Official Java Lab Lesson Plan - 2025**](./Java%20Lab%20Lesson%20Plan%20Final-2025.pdf).  
 All programs are organized lab-wise and are directly accessible from the table below.
+
 
 
 ---
