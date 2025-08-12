@@ -1,6 +1,6 @@
 # 🖥️ OOPJ Lab Programs
 <p align="left">
-  <a href="https://github.com/tarunkrjaiswal/REPO-NAME/stargazers">
+  <a href="https://github.com/tarunkrjaiswal/OOPJ/stargazers">
     <img src="https://img.shields.io/badge/⭐-Star%20this%20repo%20if%20it%20helped-BF91F3?style=for-the-badge&logo=github" alt="Star this repo if it helped you!" />
   </a>
 </p>
